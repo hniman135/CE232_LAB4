@@ -1,0 +1,6 @@
+source "C:/Users/vomin/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/vomin/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/vomin/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/vomin/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/vomin/Source/CE232_HTNhungKhongDay/LAB04/baitap1/main/Kconfig.projbuild"
+source "C:/Users/vomin/esp/esp-idf/examples/common_components/protocol_examples_common/Kconfig.projbuild"
